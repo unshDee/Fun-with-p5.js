@@ -1,4 +1,4 @@
-// Insertion Sort Visualization by Ansh Dawda
+// Selection Sort Visualization by Ansh Dawda
 // To view output, go to:
 // https://editor.p5js.org/InsaanTheHuman/present/FTZ5VHbA0
 
